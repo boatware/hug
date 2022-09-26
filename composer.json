@@ -1,0 +1,20 @@
+{
+    "name": "boatware/hug",
+    "description": "Usable Interfaces for the sadly abandoned PSR-8",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Boatware\\Hug\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "boatware",
+            "email": "thomas.artmann@ohano.me",
+            "homepage": "https://github.com/boatware"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
